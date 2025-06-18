@@ -1,1 +1,1 @@
-# Customer-Segmentation-using-Mall-Customer-Data-Clustering
+# Customer Segmentation using Mall Customer:Data Clustering
