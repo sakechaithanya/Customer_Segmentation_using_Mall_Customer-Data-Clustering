@@ -1,4 +1,4 @@
-# Customer Segmentation using Mall Customer:Data Clustering
+
 # 🛍️ Customer Segmentation Using Mall Customer Data (Clustering)
 
 This project performs customer segmentation using clustering techniques on the Mall Customer Dataset. The goal is to divide customers into distinct groups based on purchasing behavior and demographic features to enable targeted marketing strategies.
